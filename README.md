@@ -26,7 +26,7 @@
 <p> </p>
 <p>Select nodes which must be <strong>overwritten</strong>.</p>
 <p> </p>
-<p><img src="https://reinder.eu/media/20412/5_choose_nodes_to_update.jpg?width=500&amp;height=251.30208333333334" alt="Umbraco import export package | nodes overwritten" data-udi="umb://media/d3d17b734d5e48caa7715193c13f2cb7" /></p>
+<p><img src="https://reinder.eu/media/20412/5_choose_nodes_to_update.jpg" alt="Umbraco import export package | nodes overwritten" data-udi="umb://media/d3d17b734d5e48caa7715193c13f2cb7" /></p>
 <p> </p>
 <p>Choose <strong>import</strong> – review operation log</p>
 <p> </p>
